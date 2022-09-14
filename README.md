@@ -4,6 +4,8 @@
 
 --> The game application is built using CodeBlocks in a Windows system.
 
+--> The source code is present in the file main.cpp
+
 --> The game has two different levels of difficulty.
 
 --> In the easy mode, the snake dies only when it bites back itself. 
